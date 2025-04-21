@@ -1,0 +1,5 @@
+streamlit==1.44.1
+llama-index==0.12.31
+llama-cpp-python==0.3.8
+sentence-transformers==4.1.0
+python-dotenv==1.1.0
