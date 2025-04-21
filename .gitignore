@@ -77,3 +77,4 @@ pythonenv*/
 tmp/
 .sass-cache/
 
+venv/
